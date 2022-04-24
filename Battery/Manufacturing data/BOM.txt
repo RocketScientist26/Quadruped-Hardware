@@ -1,0 +1,6 @@
+-Value-            -Count-           -Package-            -Reference-
+100nf/25v             1               0805 SMD                "C1"
+100ohm (1%)           1               0805 SMD                "R1"
+1k (1%)               1               0805 SMD                "R2"
+FS312F-G              1               SOT23-6                 "U13"
+FS8205A              10               SOT23-6                 "U1 U2 U3 U4 U5 U6 U7 U8 U9 U10"

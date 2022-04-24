@@ -1,0 +1,17 @@
+(footprint "SIL1_VIA" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5B217450)
+  (descr "Connecteurs 2 pins")
+  (tags "CONN DEV")
+  (attr through_hole)
+  (fp_text reference "REF" (at 0.5 0.25) (layer "F.SilkS") hide
+    (effects (font (size 0.1 0.1) (thickness 0.025)))
+    (tstamp 77ee67a0-8688-468a-be24-331ea112a411)
+  )
+  (fp_text value "VAL" (at 0.5 -0.25) (layer "F.SilkS") hide
+    (effects (font (size 0.1 0.1) (thickness 0.025)))
+    (tstamp c7d9bf66-3915-4103-bcf2-7e640b4c8d99)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 0.7 0.7) (drill 0.3) (layers *.Cu)
+    (zone_connect 2) (tstamp 99b51399-7f87-492f-9df8-fb27bf11d206))
+)

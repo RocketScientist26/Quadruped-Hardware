@@ -1,0 +1,19 @@
+### Module positions ###
+## Unit = inches
+## Side : F.Cu
+# Ref    Val              Package              PosX       PosY
+C1       100nf            SM0805              0.7480    -0.0886
+R1       100              SM0805              0.8760    -0.0886
+R2       1k               SM0805              0.8858    -0.2854
+U1       FS8205A          TSSOP8              0.8445    -0.4803
+U2       FS8205A          TSSOP8              0.8445    -0.6299
+U3       FS8205A          TSSOP8              0.8445    -0.7795
+U4       FS8205A          TSSOP8              0.8445    -0.9291
+U5       FS8205A          TSSOP8              0.8445    -1.0787
+U6       FS8205A          TSSOP8              0.8445    -1.2283
+U7       FS8205A          TSSOP8              0.8445    -1.3780
+U8       FS8205A          TSSOP8              0.8445    -1.5276
+U9       FS8205A          TSSOP8              0.8445    -1.6772
+U10      FS8205A          TSSOP8              0.8445    -1.8268
+U13      FS312F-G         SOT23-6             0.7579    -0.2559
+## End

@@ -1,0 +1,15 @@
+(footprint "SIL2_SMD_P" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5CB0CDD0)
+  (attr through_hole)
+  (fp_text reference "REF" (at 0 0) (layer "F.SilkS") hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+    (tstamp c4c84843-6ed0-4ce3-8bf8-ff3c0e62926c)
+  )
+  (fp_text value "VAL" (at 0 1) (layer "F.SilkS") hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+    (tstamp 7933de11-4828-42b1-a71c-a32c2078c700)
+  )
+  (pad "1" smd rect (at -11 4.75) (size 1 1) (layers "F.Cu" "F.Mask") (tstamp 018a74a9-83ee-416a-ad74-597a1fe4539b))
+  (pad "2" smd rect (at 3.5 5.5) (size 1 1) (layers "F.Cu" "F.Mask") (tstamp cb3a2aa5-0f91-4478-9ddb-0b968ef5fa53))
+)

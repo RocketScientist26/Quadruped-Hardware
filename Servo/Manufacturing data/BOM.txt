@@ -1,0 +1,9 @@
+-Value-				-Count-		-Package-		-Reference-
+1uf					1			0402 SMD		C1
+100nf				6			0402 SMD		C2, C4, C5, C6, C7, C8
+10uf				1			0402 SMD		C3
+4.7k				2			0402 SMD		R1, R2
+1M					1			0402 SMD		R4
+MCP1702T-3302E/CB	1		 	SOT23			U1
+STM32F030F4P6		1		 	TSSOP20			U2
+TC118S				1		 	SOP8			U3

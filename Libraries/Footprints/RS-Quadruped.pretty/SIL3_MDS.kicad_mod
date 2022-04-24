@@ -1,0 +1,18 @@
+(footprint "SIL3_MDS" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5CAC4EE8)
+  (descr "Connecteurs 2 pins")
+  (tags "CONN DEV")
+  (attr through_hole)
+  (fp_text reference "REF" (at 0 1.25) (layer "F.SilkS") hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+    (tstamp cfc25d70-2748-49fe-bb69-5196d9ea547d)
+  )
+  (fp_text value "VAL" (at 2.25 1.25) (layer "F.SilkS") hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+    (tstamp 7134724f-277a-4c58-bbec-7ceaf30b9ed0)
+  )
+  (pad "1" smd rect (at -0.8 0) (size 0.8 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e196416c-d4d1-42d4-979d-990a370627ba))
+  (pad "2" smd rect (at 1.2 0) (size 1.6 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 05c1c0ae-f846-4942-b9ca-9f0f8f62492d))
+  (pad "3" smd rect (at 3.2 0) (size 0.8 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 28c42959-8e72-4709-83e0-fbb99eade23c))
+)
